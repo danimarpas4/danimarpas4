@@ -10,7 +10,7 @@ Currently, I am pursuing two master’s degrees—one in Full Stack Development 
 
 ---
 
-### 🚀 Current Project: ProMilitar
+### 🚀 Current Project: [ProMilitar](https://promilitar.es)
 **Founder & Core Developer** (*Feb 2026 - Present*)
 
 I am currently developing and deploying a digital learning ecosystem for military promotions (Cabo and Cabo Primero) with an active community of over 500 users. The project strategy focuses on Open Access content validation and automated study cycles.
